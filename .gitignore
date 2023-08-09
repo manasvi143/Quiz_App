@@ -19,6 +19,7 @@ windows/
 analysis_options.yaml/
 
 
+
 # IntelliJ related
 *.iml
 *.ipr
