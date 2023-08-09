@@ -21,3 +21,9 @@ I got good idea about :-
 - Types of buttons 
 - Styling of Widgets
 - Mapping of data
+
+## Screenshots
+
+![App Screenshot](https://github.com/manasvi143/Quiz_App/blob/main/assets/images/Untitled%20design.png?raw=true)
+
+
