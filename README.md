@@ -1,16 +1,23 @@
-# prac3
 
-A new Flutter project.
+# Quiz App 
 
-## Getting Started
+This quiz app have number of questions, which user can answer and get the summry of all the right and wrong choices.
 
-This project is a starting point for a Flutter application.
+This app is made to understand Flutter and Dart basics.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Multi Screen
+- Cross platform
+
+
+## Lessons Learn
+
+I got good idea about :-
+
+- Widgets (Statefull & Stateless)
+- if else Statements
+- Types of buttons 
+- Styling of Widgets
+- Mapping of data
